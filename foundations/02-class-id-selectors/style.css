@@ -1,0 +1,17 @@
+#one {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#another {
+    background-color: #90ee90;
+}
+
+.class {
+    background-color: hsl(350, 100%, 88%);
+    font-family: 'Verdana' , sans-serif;
+}
+
+.but-cooler {
+    font-size: 24px;
+}
